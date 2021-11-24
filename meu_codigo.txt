@@ -1,9 +1,4 @@
 Olá, meu nome é Claudia e sou a mais nova estagiária da IBM!!!
-<<<<<<< HEAD
 Eu sou uma águia que voa cada vez mais alto, mas com a alegria de um golfinho, e sem passar por cima de ng!!!!
 Apenas testando os comandos do git rs...
-=======
-Eu sou uma águia!!!!
-Eu sou foda!!!
->>>>>>> 08b55500902a123f722900af9a8dec7e32017534
 Usando o git branch...
