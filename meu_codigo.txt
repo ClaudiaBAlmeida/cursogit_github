@@ -1,2 +1,3 @@
 Olá, meu nome é Claudia e sou a mais nova estagiária da IBM!!!
-Eu sou uma águia!!!!
+Eu sou uma águia que voa cada vez mais alto, mas com a alegria de um golfinho, e sem passar por cima de ng!!!!
+Apenas testando os comandos do git rs...
